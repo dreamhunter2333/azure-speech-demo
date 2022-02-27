@@ -1,0 +1,6 @@
+test.py
+test.cpp
+venv/
+azure-speech-cplusplus/speechsdk
+out/
+textToWav
